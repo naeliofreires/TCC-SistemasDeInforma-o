@@ -1,3 +1,7 @@
-# TCC - Sistemas de Informação
+<h1>TCC - Sistemas de Informação </h1>
 
-: Repositorio para guardar o materia de pesquisa para a realização do meu TCC
+<ul>
+  <li> Material de Estudo </li>
+  <li> Robotica Educacional </li>
+  <li> Ensino de Programação </li>
+</ul>
