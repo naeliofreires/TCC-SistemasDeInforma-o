@@ -2,6 +2,6 @@
 
 <ul>
   <li> Material de Estudo </li>
+  <li> Ensino de Programação </li>
   <li> Robotica Educacional </li>
-  <li> Ensino de Programação </li>
 </ul>
